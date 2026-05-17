@@ -40,9 +40,7 @@ This is not a simple timeline. This is a **classified research archive** uncover
 5. Technical Analysis (Top Secret)
 6. Community Impact
 7. Evidence & Archives
-8. Research Guidelines
-9. Conclusion
-10. About the Project (DECS Research Bureau)
+8. Conclusion
 
 ---
 
